@@ -57,9 +57,3 @@ elseif(isset($_POST['userLogin']) && isset($_POST['senhaLogin'])){
     if(!isset($isLogin))header("Location: login.php");
 }
 ?>
-<script>
-    $(document).ready(function() {
-    console.log($_SESSION['idColaborador']);
-    alert('oi');
-});
-</script>
