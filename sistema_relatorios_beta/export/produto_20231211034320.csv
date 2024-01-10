@@ -1,0 +1,4 @@
+id,Produto,peso,TipoPeso_id,TipoPeso,valorunitario,paletizacao,lastro,codigo,codigofabricante,descricao,Familia1_id,Familia1,Familia2_id,Familia2,Embalagem_id,Embalagem,Categoria_id,Categoria,Colaborador_id,Colaborador
+1,"Produto teste 1 alterado",500.00,3,Quilos,0,225,252525,2147483647,12312,"Produto designado à formatação de texto mostrado com ação de renovação diarai de formato 123",1,0,1,"Familia 2 teste",2,"Papelão cordmo",10,Cerveja,1,"adm master"
+2,"Imperio Lager",1245.00,2,Gramas,123,98989893,652326,2147483647,123,asda,1,0,1,"Familia 2 teste",2,"Papelão cordmo",10,Cerveja,1,"adm master"
+3,"Imperio Latão",450.00,3,Quilos,1,123,321,123,321,123321123,1,0,1,"Familia 2 teste",2,"Papelão cordmo",10,Cerveja,1,"adm master"
