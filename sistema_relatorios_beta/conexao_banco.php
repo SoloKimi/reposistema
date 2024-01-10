@@ -1,8 +1,8 @@
 <?php
 
 $dbhost = 'localhost';
-$dbuser = 'u620795951_FVP_ADM';
-$dbpass = '@FVP9685#distribuidora2023';
+$dbuser = '';
+$dbpass = '';
 
 $link = mysqli_connect($dbhost, $dbuser, $dbpass);
 $link->set_charset("utf8");
@@ -10,7 +10,7 @@ if (!$link) {
     die('Não foi possível conectar');
 }
 
-$dbname = 'u620795951_SistemaFVP';
+$dbname = '';
 
 mysqli_select_db($link, $dbname);
 
